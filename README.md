@@ -19,7 +19,7 @@ pipenv install
 
 # Examples
 
-* [Pandas Examples](pandas_example.ipynb)
+* [Pandas Examples](pandas_examples.ipynb)
 * [Arrow Examples](arrow_example.ipynb)
 * [C++ Examples](cpp/cpp_example.ipynb)
 
